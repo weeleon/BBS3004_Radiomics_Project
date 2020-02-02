@@ -23,8 +23,7 @@ def xnat_collection(myWorkingDirectory,collectionURL,myProjectID):
     os.chdir(myWorkingDirectory)
     #connections to public collections do not require passwords
     #session = xnat.connect('https://central.xnat.org', user="", password="")
-    with xnat.connect(collectionURL, user="", password="") as mySession:
-	#I *think* you have to remove user and password argument if you don't have one
+    with xnat.connect(collectionURL) as mySession:
         myProject= mySession.projects[myProjectID]
         mySubjectsList = myProject.subjects.values()
         for s in mySubjectsList:
@@ -42,11 +41,11 @@ def xnat_collection(myWorkingDirectory,collectionURL,myProjectID):
     return
 #
 #
-#
+#this executes the main function :
 xnat_collection(myWorkingDirectory,collectionURL,myProjectID)
 # Unzip zip files download from XNAT
-archives = [fn for fn in os.listdir('.') if fn.endswith('.zip')]
-for zipname in archives:
-    print ("processing ... " + zipname)
-    subprocess.call(r'"C:\Program Files (x86)\7-Zip\7z.exe" x ' + zipname + ' -o' + myProjectID)
+#archives = [fn for fn in os.listdir('.') if fn.endswith('.zip')]
+#for zipname in archives:
+#    print ("processing ... " + zipname)
+#    subprocess.call(r'"C:\Program Files (x86)\7-Zip\7z.exe" x ' + zipname + ' -o' + myProjectID)
 
