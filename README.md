@@ -17,6 +17,14 @@ At the end of this first step, you would be able to do all of the following :
 At the end of this second step, you would be able to do all of the following :
 1. Know how to look up well-know imaging repositories and then obtain some public clinical images of CT, MR or PET
 2. Be able to open, view and understand how medical imaging files are organized in the DICOM standard
+
+### Some resources you may need
+1.  https://www.dicompyler.com/
+2.  https://pydicom.github.io/
+3.  https://www.cancerimagingarchive.net/
+4.  https://xnat.bmia.nl/
+5.  There is a script in this github repository itself that you can modify and use to download collections from xnat.bmia.nl
+
 #### Recommended reading
 1.
 2.
