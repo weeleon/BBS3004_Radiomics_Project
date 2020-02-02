@@ -1,5 +1,5 @@
 # BBS3004_Radiomics_Project
-This is an open teaching resource for a short project inUniversity Maastricht Bach Biomedical Science
+This is an open teaching resource for a short project in University Maastricht Bach Biomedical Science
 
 ## Step 1 : Introduction to Radiomics
 At the end of this first step, you would be able to do all of the following :
@@ -8,10 +8,10 @@ At the end of this first step, you would be able to do all of the following :
 3. Explain to another colleague in the BBS course, what is radiomics and what are the principle steps to be done in a radiomics analysis.
 4. Access a public open source of images for radiomics analysis.
 #### Recommended reading
-1.
-2.
-3.
-4.
+1.  Radiomics: Images Are More than Pictures, They Are Data https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4734157/
+2.  Radiomics and radiogenomics in lung cancer: A review for the clinician https://www.ncbi.nlm.nih.gov/pubmed/29290259
+3.  Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach https://www.nature.com/articles/ncomms5006
+4.  Repeatability and Reproducibility of Radiomic Features https://www.ncbi.nlm.nih.gov/pubmed/30170872
 
 ## Step 2 : Getting and understanding the data
 At the end of this second step, you would be able to do all of the following :
