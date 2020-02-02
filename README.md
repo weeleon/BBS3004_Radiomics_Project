@@ -23,7 +23,8 @@ At the end of this second step, you would be able to do all of the following :
 2.  https://pydicom.github.io/
 3.  https://www.cancerimagingarchive.net/
 4.  https://xnat.bmia.nl/
-5.  There is a script in this github repository itself that you can modify and use to download collections from xnat.bmia.nl
+5.  Python resources in this project needs a python installation such as Anaconda3 https://www.anaconda.com/
+6.  There is a script in this github repository itself that you can modify and use to download collections from xnat.bmia.nl
 
 #### Recommended reading
 1.
