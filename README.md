@@ -26,11 +26,12 @@ At the end of this second step, you would be able to do all of the following :
 5.  Python resources in this project needs a python installation such as Anaconda3 https://www.anaconda.com/
 6.  There is a script in this github repository itself that you can modify and use to download collections from xnat.bmia.nl
 
-#### Recommended reading
-1.
-2.
-3.
-4.
+#### General instructions
+1. Install Anaconda following the instructions on their webpage.
+2. Install Dicompyler
+3. Discuss with your project team which image collection you would download
+4. Download the appropriate collection
+5. View some of these with an appropriate DICOM viewer to get an idea of how DICOM images are organized
 
 ## Step 3 : Radiomics features
 At the end of this third step, you would be able to do all of the following :
