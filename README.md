@@ -13,12 +13,22 @@ At the end of this first step, you would be able to do all of the following :
 3.  Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach https://www.nature.com/articles/ncomms5006
 4.  Repeatability and Reproducibility of Radiomic Features https://www.ncbi.nlm.nih.gov/pubmed/30170872
 
+### Things to do
+1.  Feel free to sit in on Intro to Radiomics lecture for the BMS students - Monday 0830h Wynand Wijnenzaal UNS50 K4.403. Lecture PDF here by Tuesday.
+2.  We will look at some training materials by Maastro Clinic (for doctors and radiation technologists) on Thursday.
+3.  Choose an imaging modality (CT/MRI/PET) as a pair and read up on what information you could learn from the image.
+4.  Learn how to navigate and download public-access image repositories like **The Cancer Imaging Archive**  (https://www.cancerimagingarchive.net/) or **TRaIT-xnat** (https://xnat.bmia.nl/).
+
+
+
+
+
 ## Step 2 : Getting and understanding the data
 At the end of this second step, you would be able to do all of the following :
-1. Know how to look up well-know imaging repositories and then obtain some public clinical images of CT, MR or PET
+1. Know how to look up well-know imaging repositories (see things to do in Step 1) and  obtain  public access clinical images of CT, MR or PET.
 2. Be able to open, view and understand how medical imaging files are organized in the DICOM standard
 
-### Some resources you may need
+#### Resources you may need
 1.  https://www.dicompyler.com/
 2.  https://pydicom.github.io/
 3.  https://www.cancerimagingarchive.net/
@@ -26,12 +36,26 @@ At the end of this second step, you would be able to do all of the following :
 5.  Python resources in this project needs a python installation such as Anaconda3 https://www.anaconda.com/
 6.  There is a script in this github repository itself that you can modify and use to download collections from xnat.bmia.nl
 
-#### General instructions
-1. Install Anaconda following the instructions on their webpage.
-2. Install Dicompyler
-3. Discuss with your project team which image collection you would download
-4. Download the appropriate collection
-5. View some of these with an appropriate DICOM viewer to get an idea of how DICOM images are organized
+### Things to do
+1.  Install **Dicompyler** (this is one of several free software you can use to view DICOM format medical images).
+2.  Alternatively to dicompyler, you could another freeware software package online that can open DICOM images with annotations.
+3.  Navigate to TCIA cancer archive and locate the lung radiomics collections. Since there are 6 people in the team, you could decide among yourselves who is going to download which part (we will need all six parts) :
+    3a. NSCLC-Radiomics-Interobserver1
+    3b. RIDER Lung CT
+    3c. NSCLC-Radiomics patients 1-100
+    3c. NSCLC-Radiomics patients 101-200
+    3c. NSCLC-Radiomics patients 201-300
+    3c. NSCLC-Radiomics patients 301-422
+4.  Open your own part of the images and have a browse around, try to work out how the dicom files are organized by its contents.
+5.  *if you would like to using a more flexible programming script you can do the following :*
+    5a. *Install Anaconda3 Python following the instructions on their webpage (stay with the defaults)*
+    5b. *There is a small python script in this repository for downloading collections from xnat*
+    5c. *You will need a little experience eg installing packages with "pip" for example*
+    5d. *Feel free to modify the script with a text editor to download different collections etc.*
+
+
+
+
 
 ## Step 3 : Radiomics features
 At the end of this third step, you would be able to do all of the following :
