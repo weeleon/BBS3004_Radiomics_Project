@@ -25,7 +25,7 @@ At the end of this first step, you would be able to do all of the following :
 
 ## Step 2 : Getting and understanding the data
 At the end of this second step, you would be able to do all of the following :
-1. Know how to look up well-know imaging repositories (see things to do in Step 1) and  obtain  public access clinical images of CT, MR or PET.
+1. Know how to look up imaging repositories (see things to do in Step 1) and  obtain  public access clinical images of CT, MR or PET.
 2. Be able to open, view and understand how medical imaging files are organized in the DICOM standard
 
 #### Resources you may need
