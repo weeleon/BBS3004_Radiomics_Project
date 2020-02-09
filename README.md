@@ -40,12 +40,12 @@ At the end of this second step, you would be able to do all of the following :
 1.  Install **Dicompyler** (this is one of several free software you can use to view DICOM format medical images).
 2.  Alternatively to dicompyler, you could another freeware software package online that can open DICOM images with annotations.
 3.  Navigate to TCIA cancer archive and locate the lung radiomics collections. Since there are 6 people in the team, you could decide among yourselves who is going to download which part (we will need all six parts) :
-  3a. NSCLC-Radiomics-Interobserver1
-  3b. RIDER Lung CT
-  3c. NSCLC-Radiomics patients 1-100
-  3d. NSCLC-Radiomics patients 101-200
-  3e. NSCLC-Radiomics patients 201-300
-  3f. NSCLC-Radiomics patients 301-422
+  3. NSCLC-Radiomics-Interobserver1
+  3. RIDER Lung CT
+  3. NSCLC-Radiomics patients 1-100
+  3. NSCLC-Radiomics patients 101-200
+  3. NSCLC-Radiomics patients 201-300
+  3. NSCLC-Radiomics patients 301-422
 4.  Open your own part of the images and have a browse around, try to work out how the dicom files are organized by its contents.
 5.  *if you would like to using a more flexible programming script you can do the following :*
   - *Install Anaconda3 Python following the instructions on their webpage (stay with the defaults)*
