@@ -47,11 +47,11 @@ At the end of this second step, you would be able to do all of the following :
       5. NSCLC-Radiomics patients 201-300
       6. NSCLC-Radiomics patients 301-422
 4.  Open your own part of the images and have a browse around, try to work out how the dicom files are organized by its contents.
-5.  *if you would like to using a more flexible programming script you can do the following :*
+5.  *if you would like to try a more flexible programming script approach, you can do the following :*
       - *Install Anaconda3 Python following the instructions on their webpage (stay with the defaults)*
       - *There is a small python script in this repository for downloading collections from xnat*
       - *You will need a little experience eg installing packages with "pip" for example*
-      - *Feel free to modify the script with a text editor to download different collections etc.*
+      - *Feel free to download and modify the script with a text editor to collect different datasets etc.*
 
 
 
