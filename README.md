@@ -39,7 +39,7 @@ At the end of this second step, you would be able to do all of the following :
 ### Things to do
 1.  Install **Dicompyler** (this is one of several free software you can use to view DICOM format medical images).
 2.  Alternatively to dicompyler, you could another freeware software package online that can open DICOM images with annotations.
-3.  Navigate to TCIA cancer archive and locate the lung radiomics collections. Since there are 6 people in the team, you could decide among yourselves who is going to download which part (we will need all six parts) :
+3.  Navigate to **TCIA cancer archive** and locate the lung radiomics collections. Since there are 6 people in the team, you could decide among yourselves who is going to download which part (we will need all six parts) :
       1. NSCLC-Radiomics-Interobserver1
       2. RIDER Lung CT
       3. NSCLC-Radiomics patients 1-100
