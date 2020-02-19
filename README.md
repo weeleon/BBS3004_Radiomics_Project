@@ -61,11 +61,24 @@ At the end of this second step, you would be able to do all of the following :
 At the end of this third step, you would be able to do all of the following :
 1. Know how to extract radiomic features from medical images using an open source software package
 2. Be able to discuss what kind of computational setting may have an effect on the radiomics features that are computed
+
 #### Recommended reading
-1.
-2.
-3.
-4.
+1. PyRadiomics docs at https://pyradiomics.readthedocs.io/en/latest/
+2. O-RAW documentation https://gitlab.com/UM-CDS/o-raw/-/blob/master/README.md
+3. O-RAW paper https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.13844
+
+
+### Things to do
+1.  You will need the python programming language in your laptop, so I recommend Anaconda3 (take latest version and use all standard defaults).
+2.  Use the "pip" command in a python command line window to install pyradiomics version 2.1.2 e.g. "pip install pyradiomics==2.1.2".
+3.  Clone the pyradiomics-master repository () to a folder on your laptop.
+4.  Clone the o-raw repository to a sub-directory in pyradiomics master.
+5.  You will need to modify a couple of lines of code in "HelloORAW.py" to point to where your DICOM data is located.
+6.  Try to extract radiomics feautures of a single case first as a test. Then follow up with the rest of the cases.
+
+
+
+
 
 ## Step 4 : Feature selection
 At the end of this fourth step, you would be able to do all of the following :
