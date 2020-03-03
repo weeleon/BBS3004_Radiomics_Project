@@ -85,11 +85,12 @@ At the end of this fourth step, you would be able to do all of the following :
 1. Explain why it is almost always advisable to reduce the number of radiomics features available for a given prediction problem
 2. Describe at least 2 methods by which feature dimensionality could be significantly reduced
 3. Propose and execute one of these methods on the dataset(s) that you have downloaded
+
 #### Recommended reading
-1.
-2.
-3.
-4.
+1. https://towardsdatascience.com/getting-data-ready-for-modelling-feature-engineering-feature-selection-dimension-reduction-39dfa267b95a
+2. https://machinelearningmastery.com/an-introduction-to-feature-selection/
+3. Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach https://www.nature.com/articles/ncomms5006
+4. Vulnerabilities of radiomics signature development https://www.sciencedirect.com/science/article/pii/S0167814018335515
 
 ## Step 5 : Fitting a prediction model
 At the end of this fifth step, you would be able to do all of the following :
