@@ -92,6 +92,11 @@ At the end of this fourth step, you would be able to do all of the following :
 3. Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach https://www.nature.com/articles/ncomms5006
 4. Vulnerabilities of radiomics signature development https://www.sciencedirect.com/science/article/pii/S0167814018335515
 
+#### Additional materials
+Feel free to challenge yourself and learn to do some very simple steps in feature selection using R. There are many step by step tutorials available for you to use online. Steps are first to install latest version of R (https://www.r-project.org/) and then latest version of RStudio as a friendlier way to work in R (https://rstudio.com/products/rstudio/download/).
+
+
+
 ## Step 5 : Fitting a prediction model
 At the end of this fifth step, you would be able to do all of the following :
 1. Explain why is it strongly recommended to separate available data in a study into training, test and validation sets
