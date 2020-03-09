@@ -102,11 +102,17 @@ At the end of this fifth step, you would be able to do all of the following :
 1. Explain why is it strongly recommended to separate available data in a study into training, test and validation sets
 2. Justify what woud be a suitable choice of predictive performance for the model you have chosen
 3. Be able to develop a simple prediction model and know how to solve for the coefficients of your selected model
+
+### Things to do
+1. Reserve some of your patients *that have clinical outcomes* for validation, keep it hidden until you have completely defined your model on the remaining patients. Typically, it is an idea to save 20-25% of your cases in quarantine as the validation set.
+2. Decide what kind of model you will make. For survival at a fixed time point, you could choose a logistic regression model. For a time-to-death model, you would have to use a Cox regression.
+3. Once you have chosen the parameters that will go into your model, you could use SPSS to make your model.
+4. You must also determine what kind of metric to use to measure the performance of your model, eg Area under Receiver-Operator curve, or Harrell concordance index, or others.
+
 #### Recommended reading
-1.
-2.
-3.
-4.
+1. https://towardsdatascience.com/various-ways-to-evaluate-a-machine-learning-models-performance-230449055f15
+2. https://journals.sagepub.com/doi/full/10.1177/1748006X17742779
+
 
 ## Step 6 : Validating an existing prediction model
 At the end of this sixth and final step, you would be able to do all of the following :
