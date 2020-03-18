@@ -126,9 +126,10 @@ At the end of this sixth and final step, you would be able to do all of the foll
 
 
 #### Recommended reading
-1. Measures of "diagnostic performance", receiver-operator curves (ROC) and the "area under ROC" metric - https://analyse-it.com/docs/user-guide/diagnostic-performance/diagnostic-performance
+1. Binary regression; measures of "diagnostic performance", receiver-operator curves (ROC) and the "area under ROC" metric - https://analyse-it.com/docs/user-guide/diagnostic-performance/diagnostic-performance
 2. Cox regression in SPSS http://core.ecu.edu/ofe/StatisticsResearch/Survival%20Analysis%20Using%20SPSS.pdf (note ignore the time-dependence of covariates section, only assume radiomics features are time independent).
-3. Reporting on a model development and validation study that you did - TRIPOD guidelines https://annals.org/aim/fullarticle/2088542/transparent-reporting-multivariable-prediction-model-individual-prognosis-diagnosis-tripod-explanation
+3. https://www.ibm.com/support/pages/can-spss-statistics-produce-harrells-c-or-somers-d-following-cox-regression
+4. Reporting on a model development and validation study that you did - TRIPOD guidelines https://annals.org/aim/fullarticle/2088542/transparent-reporting-multivariable-prediction-model-individual-prognosis-diagnosis-tripod-explanation
 
 
 
