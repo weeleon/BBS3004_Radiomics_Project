@@ -1,5 +1,5 @@
 # BBS3004_Radiomics_Project
-This is an open teaching resource for a short project in University Maastricht Bach Biomedical Science
+This is an open teaching resource for a short project in University Maastricht Bachelor of Biomedical Science
 
 ## Step 1 : Introduction to Radiomics
 At the end of this first step, you would be able to do all of the following :
@@ -115,14 +115,12 @@ At the end of this fifth step, you would be able to do all of the following :
 
 
 
-
-
 ## Step 6 : Validating an existing prediction model
 At the end of this sixth and final step, you would be able to do all of the following :
 1. Know how perform a validation of a prediction model that was developed in the previous step
-2. Be able to select a prediction performance measure that is suitble for your model.
+2. Be able to select a prediction performance measure that is suitable for your model.
 3. Be able to explain the procedure of developing and testing a prediction model, citing the appropriate measure of performance.
-4. Offer reasons why models do not perform the same in the development and validation datasets.
+4. Offer reasons why models do not perform the same way in the development versus validation datasets.
 
 
 #### Recommended reading
