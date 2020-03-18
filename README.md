@@ -114,14 +114,21 @@ At the end of this fifth step, you would be able to do all of the following :
 2. https://journals.sagepub.com/doi/full/10.1177/1748006X17742779
 
 
+
+
+
 ## Step 6 : Validating an existing prediction model
 At the end of this sixth and final step, you would be able to do all of the following :
-1. Know how to design a validation of a prediction model that you or a colleague (or as a group) have developed
-2. Discuss some reason why a validation of a prediction model might be good or bad or indifferent
+1. Know how perform a validation of a prediction model that was developed in the previous step
+2. Be able to select a prediction performance measure that is suitble for your model.
+3. Be able to explain the procedure of developing and testing a prediction model, citing the appropriate measure of performance.
+4. Offer reasons why models do not perform the same in the development and validation datasets.
+
+
 #### Recommended reading
-1.
-2.
-3.
-4.
+1. Measures of "diagnostic performance", receiver-operator curves (ROC) and the "area under ROC" metric - https://analyse-it.com/docs/user-guide/diagnostic-performance/diagnostic-performance
+2. Cox regression in SPSS http://core.ecu.edu/ofe/StatisticsResearch/Survival%20Analysis%20Using%20SPSS.pdf (note ignore the time-dependence of covariates section, only assume radiomics features are time independent).
+3. Reporting on a model development and validation study that you did - TRIPOD guidelines https://annals.org/aim/fullarticle/2088542/transparent-reporting-multivariable-prediction-model-individual-prognosis-diagnosis-tripod-explanation
+
 
 
